@@ -9,4 +9,4 @@ Module.symvers
 modules.order
 Modules.symvers
 .tmp_versions/
-
+.vscode/
